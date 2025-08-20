@@ -14,12 +14,10 @@
 
 <!-- Moving Python GIF -->
 
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="120" alt="Python gif"/>
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="160" alt="Serious coder at laptop"/>
 
 <!-- Cyber gif -->
-
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="140" alt="Cybersecurity gif"/>
-
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160" alt="Hands typing on keyboard"/>
 </div>
 ---
 
@@ -136,8 +134,10 @@ def filter_by(events: Iterable[Event], **kwargs) -> list[Event]:
 
 <!-- Subtle animated GIFs for certs -->
 
-<img src="https://img.icons8.com/color/150/comptia-network+.png" width="120" alt="Network+ Badge"/>
-<img src="https://img.icons8.com/color/150/comptia-security+.png" width="120" alt="Security+ Badge"/>
+  <img src="https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia" alt="CompTIA Network+ Badge"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia" alt="CompTIA Security+ Badge"/>
+
+
 
 </div>
 
@@ -147,9 +147,10 @@ def filter_by(events: Iterable[Event], **kwargs) -> list[Event]:
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/150/comptia-cysa+.png" width="120" alt="CySA+ Badge"/>
-<img src="https://img.icons8.com/color/150/ethical-hacking.png" width="120" alt="CEH Badge"/>
-<img src="https://img.icons8.com/color/150/ethical-hacking.png" width="120" alt="CEH Badge"/>
+<img src="https://img.shields.io/badge/CompTIA-CySA%2B-green?style=for-the-badge&logo=comptia" alt="CompTIA CySA+ Badge"/>
+<img src="https://img.shields.io/badge/EC--Council-CEH-black?style=for-the-badge&logo=hackaday" alt="CEH Badge"/>
+<img src="https://img.shields.io/badge/(ISC)²-CISSP-darkgreen?style=for-the-badge&logo=isc2" alt="CISSP Badge"/>
+
 
 </div>
 
