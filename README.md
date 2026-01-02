@@ -10,10 +10,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst+in+Training;Detection+%7C+Incident+Response+%7C+SIEM;Wireshark+%7C+Splunk+%7C+Elastic+Stack;Offense-Informed+Defense" alt="Typing SVG" width="100%"/>
 
-<!-- Cybersecurity-themed images -->
+<!-- Colorful Cybersecurity-themed images -->
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/150/000000/shield.png" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Shield"/>
-  <img src="https://img.icons8.com/ios-filled/150/000000/cyber-security.png" width="140" style="display:inline-block;" alt="Cyber Security"/>
+  <img src="https://img.icons8.com/color/150/000000/shield.png" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Shield"/>
+  <img src="https://img.icons8.com/color/150/000000/cyber-security.png" width="140" style="display:inline-block;" alt="Cyber Security"/>
 </p>
 
 </div>
@@ -200,6 +200,7 @@ Each project includes:
 
 **Detect early. Respond fast. Defend smart.**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<!-- Cybersecurity-themed animated effect -->
+<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Cybersecurity Animation" width="100%"/>
 
 </div>
