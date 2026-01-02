@@ -21,6 +21,7 @@
 
 - 🛡️ **Cybersecurity Analyst (Blue Team)** focused on detection, monitoring, and incident response
 - 🧠 Strong foundation in **networking, security fundamentals, and SOC workflows**
+- 📊 Hands-on experience with **Splunk and Elastic Stack (ELK)** for log analysis and investigations
 - 🐍 Use **Python** for scripting, automation, and security tooling
 - 🧪 Hands-on practitioner: labs, detections, log analysis, and analyst-style investigations
 - 📂 Turning practical security labs into **recruiter-ready GitHub portfolio projects**
@@ -32,7 +33,7 @@
 
 - Security Operations Center (SOC)
 - Incident Response & Alert Triage
-- Log Analysis & SIEM Concepts
+- Log Analysis & SIEM Concepts (Splunk / Elastic Stack)
 - Detection Engineering (entry-level)
 - Threat Monitoring & Investigation
 - Offense-informed defensive security
@@ -98,6 +99,12 @@
 - MITRE ATT&CK framework familiarity
 - Windows & Linux security fundamentals
 
+### 📊 SIEM & Log Analysis
+- **Splunk**: search queries, investigations, alert analysis
+- **Elastic Stack (ELK)**: Kibana queries, log filtering, timeline analysis
+- Windows Event Logs & Sysmon
+- Sigma rule concepts
+
 ### 🌐 Networking
 - TCP/IP, DNS, HTTP/S
 - Network traffic analysis concepts
@@ -113,6 +120,7 @@
 
 ## 🧪 Hands-On Blue Team Training (TryHackMe)
 
+- ✅ **142+ completed rooms**
 - 🛡️ Completed **Incident Response** and **Detection & Monitoring** rooms
 - 📊 Practiced real SOC analyst workflows:
   - Alert triage
@@ -121,6 +129,7 @@
   - Detection logic reasoning
 - 🧠 Applied **MITRE ATT&CK** concepts to simulated real-world attacks
 - 🧾 Documenting labs as **SOC-style case studies** in this portfolio
+- 🏅 Earned multiple **TryHackMe badges** demonstrating consistency and hands-on depth
 
 ### Focus Areas
 - Incident response lifecycle
@@ -137,6 +146,7 @@
 ## 📂 Portfolio Structure
 
 - 📁 **incident-response-writeups/**
+- 📁 **siem-investigations/**
 - 📁 **detection-labs/**
 - 📁 **sigma-rules/**
 - 📁 **python-security-scripts/**
@@ -157,7 +167,7 @@ Each project includes:
 - 📖 **CompTIA CySA+** (planned)
 - 🛠️ Detection-focused Python tooling
 - 🧪 Sigma rule creation
-- 📊 SIEM-style queries (Splunk / Elastic)
+- 📊 Advanced SIEM queries (Splunk / Elastic)
 
 ---
 
