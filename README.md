@@ -8,12 +8,35 @@
 
 ### Cybersecurity Analyst (Blue Team) • SOC Operations • Python Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst+in+Training;Detection+%7C+Incident+Response+%7C+Monitoring;Python+for+Security+Automation;Offense-Informed+Defense" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst+in+Training;Detection+%7C+Incident+Response+%7C+SIEM;Splunk+%7C+Elastic+Stack;Offense-Informed+Defense" alt="Typing SVG" width="100%"/>
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160"/>
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160"/>
+<!-- Sleek inline badges -->
+<p align="center">
+  <a href="https://www.credly.com/users/tg-beele" target="_blank">
+    <img src="https://img.shields.io/badge/Certifications-Credly-blue?style=flat-square&logo=credly" alt="Credly Badge"/>
+  </a>
+  <a href="https://tryhackme.com/p/TamGeorge" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-146%20Rooms-orange?style=flat-square&logo=tryhackme" alt="TryHackMe Badge"/>
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-ddcf3994-bdb9-4b4a-aa82-14e8b8045ddc/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-Ethical%20Hacking-red?style=flat-square&logo=udemy" alt="Udemy Badge"/>
+  </a>
+</p>
+
+<!-- Side-by-side GIFs (hidden on small screens) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140" style="margin-right:10px; display:inline-block;" class="hide-on-mobile"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140" style="display:inline-block;" class="hide-on-mobile"/>
+</p>
 
 </div>
+
+<!-- Optional: simple CSS for mobile hiding (GitHub markdown ignores, but some renderers support it) -->
+<style>
+@media screen and (max-width: 600px) {
+  .hide-on-mobile { display: none; }
+}
+</style>
 
 ---
 
@@ -54,8 +77,6 @@
   - Cloud, AI, and emerging technologies  
   - Security implications of modern technology stacks  
 
----
-
 ### 🌐 Cisco Networking Academy
 - **Introduction to Cybersecurity**  
   *Issued: July 12, 2025*  
@@ -66,8 +87,6 @@
   *Issued: June 12, 2025*  
   - TCP/IP fundamentals  
   - IP addressing, protocols, and network communication  
-
----
 
 ### 🛠️ Udemy
 - **Complete Ethical Hacking Bootcamp**  
@@ -86,6 +105,10 @@
 
   > This training strengthened my ability to **think like an attacker** in order to  
   > improve detection logic, log analysis, and incident response effectiveness.
+
+### 🔗 Certification Verification
+- 🏅 **Credly:** [View Certifications](https://www.credly.com/users/tg-beele)
+- 🧪 **Udemy Certificate:** [View Certificate](https://www.udemy.com/certificate/UC-ddcf3994-bdb9-4b4a-aa82-14e8b8045ddc/)
 
 ---
 
@@ -120,7 +143,7 @@
 
 ## 🧪 Hands-On Blue Team Training (TryHackMe)
 
-- ✅ **142+ completed rooms**
+- ✅ **146 completed rooms**
 - 🛡️ Completed **Incident Response** and **Detection & Monitoring** rooms
 - 📊 Practiced real SOC analyst workflows:
   - Alert triage
@@ -130,6 +153,7 @@
 - 🧠 Applied **MITRE ATT&CK** concepts to simulated real-world attacks
 - 🧾 Documenting labs as **SOC-style case studies** in this portfolio
 - 🏅 Earned multiple **TryHackMe badges** demonstrating consistency and hands-on depth
+- 🔗 **Profile:** [View on TryHackMe](https://tryhackme.com/p/TamGeorge)
 
 ### Focus Areas
 - Incident response lifecycle
