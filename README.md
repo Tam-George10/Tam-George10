@@ -1,182 +1,186 @@
 <!--
-✨ Hi, Tam-George! This README is designed to be eye-catching yet clean.
+✨ Professional GitHub Profile README — Blue Team / SOC Analyst
 -->
 
 <div align="center">
 
 # 👋🏽 Hi, I'm **Tam-George Belema**
 
-### Computer Science Student • Python Developer • Cybersecurity Enthusiast
+### Cybersecurity Analyst (Blue Team) • SOC Operations • Python Automation
 
-<!-- Animated headline -->
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst+in+Training;Detection+%7C+Incident+Response+%7C+Monitoring;Python+for+Security+Automation;Offense-Informed+Defense" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Python+Developer;Blue+Team+%2F+Cybersecurity+Enthusiast;Always+learning%2C+always+building" alt="Animated headline"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160"/>
 
-<!-- Moving Python GIF -->
-
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="160" alt="Serious coder at laptop"/>
-
-<!-- Cyber gif -->
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="160" alt="Hands typing on keyboard"/>
 </div>
+
 ---
 
 ## 🧭 About Me
 
-* 🎓 **Computer Science** undergraduate exploring software engineering and defensive security.
-* 🐍 Writing clean, readable **Python** for scripts, automation, and backend experiments.
-* 🛡️ Passionate about **Blue Team** topics: incident response, SIEM, monitoring, and threat detection.
-* 📚 Currently diving into **data structures**, **networks**, and **secure coding**.
-* 💡 I love breaking complex ideas into simple, teachable steps.
+- 🛡️ **Cybersecurity Analyst (Blue Team)** focused on detection, monitoring, and incident response
+- 🧠 Strong foundation in **networking, security fundamentals, and SOC workflows**
+- 🐍 Use **Python** for scripting, automation, and security tooling
+- 🧪 Hands-on practitioner: labs, detections, log analysis, and analyst-style investigations
+- 📂 Turning practical security labs into **recruiter-ready GitHub portfolio projects**
+- 🎯 Career goal: **Entry-level SOC / Blue Team Analyst**
 
 ---
 
-## 🧰 Tech Toolbox
+## 🎯 Professional Focus
+
+- Security Operations Center (SOC)
+- Incident Response & Alert Triage
+- Log Analysis & SIEM Concepts
+- Detection Engineering (entry-level)
+- Threat Monitoring & Investigation
+- Offense-informed defensive security
+
+---
+
+## 🏅 Certifications & Training
+
+### 🔐 IBM SkillsBuild
+- **Cybersecurity Fundamentals**  
+  *Issued: September 14, 2025*  
+  - Threats, vulnerabilities, and risk concepts  
+  - Security controls and defensive best practices  
+  - Core cybersecurity principles for enterprise environments  
+
+- **Explore Emerging Tech**  
+  *Issued: September 14, 2025*  
+  - Cloud, AI, and emerging technologies  
+  - Security implications of modern technology stacks  
+
+---
+
+### 🌐 Cisco Networking Academy
+- **Introduction to Cybersecurity**  
+  *Issued: July 12, 2025*  
+  - Cyber threats and attack methodologies  
+  - Defensive strategies and SOC fundamentals  
+
+- **Networking Basics**  
+  *Issued: June 12, 2025*  
+  - TCP/IP fundamentals  
+  - IP addressing, protocols, and network communication  
+
+---
+
+### 🛠️ Udemy
+- **Complete Ethical Hacking Bootcamp**  
+  *Completed: September 9, 2025*  
+
+  **Focus: Attacker Tradecraft for Defensive Security**
+
+  - Understanding common attacker **initial access techniques**
+  - **Windows exploitation concepts**, including analysis of vulnerabilities such as **EternalBlue (SMB exploitation)**
+  - Post-exploitation techniques and **artifacts left in logs, memory, and system activity**
+  - Windows privilege escalation concepts and indicators
+  - Malware behavior fundamentals and execution flow
+  - Network-based attacks and **how malicious activity appears in traffic**
+  - Password attacks and authentication weaknesses (defensive awareness)
+  - Web application attack concepts (authentication and input validation flaws)
+
+  > This training strengthened my ability to **think like an attacker** in order to  
+  > improve detection logic, log analysis, and incident response effectiveness.
+
+---
+
+## 🛠️ Technical Skills
+
+### 🛡️ Blue Team & Security
+- SOC workflows & analyst triage
+- Incident response lifecycle
+- Log analysis fundamentals
+- Threat detection concepts
+- MITRE ATT&CK framework familiarity
+- Windows & Linux security fundamentals
+
+### 🌐 Networking
+- TCP/IP, DNS, HTTP/S
+- Network traffic analysis concepts
+- Common network-based attack vectors
+
+### 🐍 Programming & Automation
+- Python scripting & automation
+- Object-Oriented Programming (OOP)
+- Log parsing & structured data handling
+- Security-focused scripting
+
+---
+
+## 🧪 Hands-On Blue Team Training (TryHackMe)
+
+- 🛡️ Completed **Incident Response** and **Detection & Monitoring** rooms
+- 📊 Practiced real SOC analyst workflows:
+  - Alert triage
+  - Log analysis
+  - Evidence correlation
+  - Detection logic reasoning
+- 🧠 Applied **MITRE ATT&CK** concepts to simulated real-world attacks
+- 🧾 Documenting labs as **SOC-style case studies** in this portfolio
+
+### Focus Areas
+- Incident response lifecycle
+- Windows event analysis
+- Network activity investigation
+- Log-based threat detection
+- Attacker behavior recognition
+
+> TryHackMe is used strictly as a **hands-on training platform**,  
+> not for badge or leaderboard collection.
+
+---
+
+## 📂 Portfolio Structure
+
+- 📁 **incident-response-writeups/**
+- 📁 **detection-labs/**
+- 📁 **sigma-rules/**
+- 📁 **python-security-scripts/**
+- 📁 **notes-and-cheatsheets/**
+
+Each project includes:
+- Scenario overview
+- Evidence & logs
+- Detection logic
+- Analyst reasoning
+- Lessons learned
+
+---
+
+## 📌 Current & Upcoming Goals
+
+- 📖 **CompTIA Security+** (in progress)
+- 📖 **CompTIA CySA+** (planned)
+- 🛠️ Detection-focused Python tooling
+- 🧪 Sigma rule creation
+- 📊 SIEM-style queries (Splunk / Elastic)
+
+---
+
+## 🗺️ Roadmap
+
+- ✅ Foundational cybersecurity certifications (IBM, Cisco)
+- 🔄 Security+ preparation
+- 🔄 CySA+ preparation
+- ⏳ Detection engineering portfolio expansion
+- 🎯 Entry-level SOC / Blue Team role
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** tgbeele@gmail.com
+
+---
 
 <div align="center">
 
-<!-- Python only with GIF -->
+**Detect early. Respond fast. Defend smart.**
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" alt="Python moving gif"/>
-
-</div>
-
----
-
-## 🔭 What I'm Learning Now
-
-* 🕵🏽‍♂️ **Network analysis** (pcap, Zeek logs, Suricata rules)
-* 🧪 **Testing & CI** for Python projects (pytest + GitHub Actions)
-* 🛠️ **Secure coding** patterns and threat modeling
-
----
-
-## 📌 Featured Projects
-
-### 1) **py-net-scout** — Packet Sniffer & Analyzer
-
-Small Python toolkit to capture traffic, extract features, and export summaries.
-
-* `Python`, `Scapy`, `Pandas`
-* Features: live capture, protocol breakdown, CSV/JSON export
-
-**Repo:** [github.com/Tam-George10/py-net-scout](https://github.com/Tam-George10/py-net-scout)
-
----
-
-### 2) **logwatch-lite** — Simple Log Monitoring
-
-CLI tool that tails logs, detects patterns/anomalies, and alerts to console.
-
-* `Python`, `Regex`, `Rich`
-* Features: colorized output, rules file, ignore lists
-
-**Repo:** [github.com/Tam-George10/logwatch-lite](https://github.com/Tam-George10/logwatch-lite)
-
----
-
-### 3) **ctf-scripts** — CTF Helpers
-
-Handy Python scripts for encoding/decoding, hashing, and quick forensics.
-
-* `Python`, `Click`
-* Features: one-liners for base64/hex, file carving helpers
-
-**Repo:** [github.com/Tam-George10/ctf-scripts](https://github.com/Tam-George10/ctf-scripts)
-
----
-
-## ✍🏽 Snippet: My Python Style
-
-```python
-from dataclasses import dataclass
-from typing import Iterable
-
-@dataclass
-class Event:
-    ts: float
-    src: str
-    dst: str
-    proto: str
-
-
-def filter_by(events: Iterable[Event], **kwargs) -> list[Event]:
-    return [e for e in events if all(getattr(e, k) == v for k, v in kwargs.items())]
-```
-
----
-
-## 📫 Connect with Me
-
-* 📧 **Email:** [tgbeele@gmail.com](mailto:tgbeele@gmail.com)
-
----
-
-## 🧩 Fun
-
-<div align="center">
-
-🎮 Currently playing: **CTF challenges & HackTheBox labs** 🕵🏽‍♂️
-📚 Favorite book: *The Art of Invisibility* by Kevin Mitnick
-💡 Fun fact: I automate boring stuff with Python—even renaming files and cleaning logs!
-
-<!-- Snake contribution graph -->
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
-
----
-
-## 🏆 Certifications (Current & Future)
-
-<div align="center">
-
-<!-- Subtle animated GIFs for certs -->
-
-  <img src="https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia" alt="CompTIA Network+ Badge"/>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-blue?style=for-the-badge&logo=comptia" alt="CompTIA Security+ Badge"/>
-
-
-
-</div>
-
-*Currently working toward Network+ and Security+ to strengthen my foundational knowledge in networking and security.*
-
-### 🎯 Future Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CompTIA-CySA%2B-green?style=for-the-badge&logo=comptia" alt="CompTIA CySA+ Badge"/>
-<img src="https://img.shields.io/badge/EC--Council-CEH-black?style=for-the-badge&logo=hackaday" alt="CEH Badge"/>
-<img src="https://img.shields.io/badge/(ISC)²-CISSP-darkgreen?style=for-the-badge&logo=isc2" alt="CISSP Badge"/>
-
-
-</div>
-
----
-
-## 📝 Roadmap
-
-* ✅ Build a **packet sniffer** in Python with Scapy
-* ✅ Automate log parsing and anomaly detection with Regex + Python
-* [ ] Build and publish a **SIEM mini-lab** with Docker Compose
-* [ ] Write a blog post on **Suricata vs Zeek for beginners**
-* [ ] Release a **FastAPI** backend template with auth & logging
-* [ ] Contribute to an open-source **Blue Team security tool**
-* [ ] Achieve **CompTIA Network+** certification
-* [ ] Achieve **CompTIA Security+** certification
-* [ ] Achieve **CompTIA CySA+** certification
-* [ ] Achieve **CEH** certification
-* [ ] Achieve **CISSP** certification
-
----
-
-<div align="center">
-
-**"Learn. Build. Secure."**
-
-</div>
-
-    
-
