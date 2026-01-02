@@ -23,20 +23,13 @@
   </a>
 </p>
 
-<!-- Side-by-side GIFs (hidden on small screens) -->
+<!-- Side-by-side GIFs -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140" style="margin-right:10px; display:inline-block;" class="hide-on-mobile"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140" style="display:inline-block;" class="hide-on-mobile"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140" style="margin-right:10px; display:inline-block;"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140" style="display:inline-block;"/>
 </p>
 
 </div>
-
-<!-- Optional: simple CSS for mobile hiding (GitHub markdown ignores, but some renderers support it) -->
-<style>
-@media screen and (max-width: 600px) {
-  .hide-on-mobile { display: none; }
-}
-</style>
 
 ---
 
@@ -128,10 +121,14 @@
 - Windows Event Logs & Sysmon
 - Sigma rule concepts
 
-### 🌐 Networking
-- TCP/IP, DNS, HTTP/S
-- Network traffic analysis concepts
-- Common network-based attack vectors
+### 🌐 Network & Threat Investigation
+- **Wireshark** packet analysis for malicious traffic identification
+- Network-based attack detection and protocol abuse analysis
+- Identification of C2 indicators and suspicious network behavior
+- Phishing email analysis and malicious payload identification
+- **Sandbox-based threat isolation** and behavioral observation
+- Malware triage and execution artifact recognition
+- Vulnerability research and exploit awareness using **Searchsploit**
 
 ### 🐍 Programming & Automation
 - Python scripting & automation
@@ -175,6 +172,7 @@
 - 📁 **sigma-rules/**
 - 📁 **python-security-scripts/**
 - 📁 **notes-and-cheatsheets/**
+- 📁 **phishing-threat-investigation-lab/**
 
 Each project includes:
 - Scenario overview
