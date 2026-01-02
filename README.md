@@ -8,25 +8,12 @@
 
 ### Cybersecurity Analyst (Blue Team) • SOC Operations • Python Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst+in+Training;Detection+%7C+Incident+Response+%7C+SIEM;Splunk+%7C+Elastic+Stack;Offense-Informed+Defense" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst+in+Training;Detection+%7C+Incident+Response+%7C+SIEM;Wireshark+%7C+Splunk+%7C+Elastic+Stack;Offense-Informed+Defense" alt="Typing SVG" width="100%"/>
 
-<!-- Sleek inline badges -->
+<!-- Cybersecurity-themed images -->
 <p align="center">
-  <a href="https://www.credly.com/users/tg-beele" target="_blank">
-    <img src="https://img.shields.io/badge/Certifications-Credly-blue?style=flat-square&logo=credly" alt="Credly Badge"/>
-  </a>
-  <a href="https://tryhackme.com/p/TamGeorge" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-146%20Rooms-orange?style=flat-square&logo=tryhackme" alt="TryHackMe Badge"/>
-  </a>
-  <a href="https://www.udemy.com/certificate/UC-ddcf3994-bdb9-4b4a-aa82-14e8b8045ddc/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-Ethical%20Hacking-red?style=flat-square&logo=udemy" alt="Udemy Badge"/>
-  </a>
-</p>
-
-<!-- Side-by-side GIFs -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140" style="margin-right:10px; display:inline-block;"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="140" style="display:inline-block;"/>
+  <img src="https://img.icons8.com/ios-filled/150/000000/shield.png" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Shield"/>
+  <img src="https://img.icons8.com/ios-filled/150/000000/cyber-security.png" width="140" style="display:inline-block;" alt="Cyber Security"/>
 </p>
 
 </div>
@@ -37,7 +24,7 @@
 
 - 🛡️ **Cybersecurity Analyst (Blue Team)** focused on detection, monitoring, and incident response
 - 🧠 Strong foundation in **networking, security fundamentals, and SOC workflows**
-- 📊 Hands-on experience with **Splunk and Elastic Stack (ELK)** for log analysis and investigations
+- 📊 Hands-on experience with **Splunk, Elastic Stack (ELK), and Wireshark** for log & network investigations
 - 🐍 Use **Python** for scripting, automation, and security tooling
 - 🧪 Hands-on practitioner: labs, detections, log analysis, and analyst-style investigations
 - 📂 Turning practical security labs into **recruiter-ready GitHub portfolio projects**
