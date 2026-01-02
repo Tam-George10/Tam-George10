@@ -10,11 +10,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst+in+Training;Detection+%7C+Incident+Response+%7C+SIEM;Wireshark+%7C+Splunk+%7C+Elastic+Stack;Offense-Informed+Defense" alt="Typing SVG" width="100%"/>
 
-<!-- Colorful Cybersecurity-themed images -->
+<!-- Cybersecurity-themed animated images -->
 <p align="center">
-  <img src="https://img.icons8.com/color/150/000000/shield.png" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Shield"/>
-  <img src="https://img.icons8.com/color/150/000000/cyber-security.png" width="140" style="display:inline-block;" alt="Cyber Security"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVpaWZ1YWdhM3RwbGU5YmZobWFkYXo3emRuZnJpZTFxb240aWM1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2i7jspnRBYgg6v4Oki/giphy.gif" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Animation 1"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJmMGN6bjQxdm01bzBhZHFqMzhmeWozbm0wbjZ5bGE2N2ptYWh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UK5wOtrmXzFHYJjE9A/giphy.gif" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Animation 2"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ2YWZhc283amZ2d201cWo2dnp6M3BrbjhiZ3Juem1leDIzM25kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Wz430ih2mZjpYAApu/giphy.gif" width="140" style="display:inline-block;" alt="Cybersecurity Animation 3"/>
 </p>
+
+
+
+
+
+
 
 </div>
 
@@ -200,7 +207,8 @@ Each project includes:
 
 **Detect early. Respond fast. Defend smart.**
 
-<!-- Cybersecurity-themed animated effect -->
-<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Cybersecurity Animation" width="100%"/>
+<!-- Cyber lock animated effect -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29lN2R5YXJlY2ptdzZsNzlpYjN6YW02cTZ1c2ZiaW1mOTd2dWphNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HbFrM2dv8O3DO/giphy.gif" alt="Cybersecurity Lock Animation" width="15%"/>
+
 
 </div>
