@@ -160,7 +160,7 @@
 
 ## 📂 Portfolio Structure
 
-- 📁 **incident-response-writeups/**
+- 📁 **incident-response/**
 - 📁 **siem-investigations/**
 - 📁 **detection-labs/**
 - 📁 **sigma-rules/**
