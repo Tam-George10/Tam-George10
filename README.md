@@ -8,7 +8,7 @@
 
 ### Cybersecurity Analyst (Blue Team) • SOC Operations • Python Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst+in+Training;Detection+%7C+Incident+Response+%7C+SIEM;Wireshark+%7C+Splunk+%7C+Elastic+Stack;Offense-Informed+Defense" alt="Typing SVG" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst;Detection+%7C+Incident+Response+%7C+SIEM;Wireshark+%7C+Splunk+%7C+Elastic+Stack;Offense-Informed+Defense" alt="Typing SVG" width="100%"/>
 
 <!-- Cybersecurity-themed animated images -->
 <p align="center">
@@ -16,12 +16,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJmMGN6bjQxdm01bzBhZHFqMzhmeWozbm0wbjZ5bGE2N2ptYWh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UK5wOtrmXzFHYJjE9A/giphy.gif" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Animation 2"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ2YWZhc283amZ2d201cWo2dnp6M3BrbjhiZ3Juem1leDIzM25kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Wz430ih2mZjpYAApu/giphy.gif" width="140" style="display:inline-block;" alt="Cybersecurity Animation 3"/>
 </p>
-
-
-
-
-
-
 
 </div>
 
@@ -36,6 +30,25 @@
 - 🧪 Hands-on practitioner: labs, detections, log analysis, and analyst-style investigations
 - 📂 Turning practical security labs into **recruiter-ready GitHub portfolio projects**
 - 🎯 Career goal: **Entry-level SOC / Blue Team Analyst**
+
+---
+
+## 🧪 SOC Portfolio — Live Investigation Repositories
+
+- 🛡️ **[Incident Response Casework](https://github.com/Tam-George10/Incident-Response)**
+- 📊 **[SIEM Threat Investigations](https://github.com/Tam-George10/Siem-investigations)**
+- 🧬 **[Malware Analysis Campaigns](https://github.com/Tam-George10/Malware-Analysis)**
+- 🎯 **[Detection Engineering Labs](https://github.com/Tam-George10/Ransomware-Detection-Engineering)**
+- 📨 **[Phishing & Social Engineering Investigations](https://github.com/Tam-George10/Phishing-Threat-Investigation)**
+- 🧠 **[Threat Intelligence & Adversary Tracking](https://github.com/Tam-George10/Threat-Intelligence-From-Phishing-To-Ransomware)**
+
+
+Each project includes:
+- Scenario overview  
+- Evidence & logs  
+- Detection logic  
+- Analyst reasoning  
+- Lessons learned  
 
 ---
 
@@ -158,25 +171,6 @@
 
 ---
 
-## 📂 Portfolio Structure
-
-- 📁 **incident-response/**
-- 📁 **siem-investigations/**
-- 📁 **detection-labs/**
-- 📁 **sigma-rules/**
-- 📁 **python-security-scripts/**
-- 📁 **notes-and-cheatsheets/**
-- 📁 **phishing-threat-investigation-lab/**
-
-Each project includes:
-- Scenario overview
-- Evidence & logs
-- Detection logic
-- Analyst reasoning
-- Lessons learned
-
----
-
 ## 📌 Current & Upcoming Goals
 
 - 📖 **CompTIA Security+** (in progress)
@@ -209,6 +203,5 @@ Each project includes:
 
 <!-- Cyber lock animated effect -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29lN2R5YXJlY2ptdzZsNzlpYjN6YW02cTZ1c2ZiaW1mOTd2dWphNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HbFrM2dv8O3DO/giphy.gif" alt="Cybersecurity Lock Animation" width="15%"/>
-
 
 </div>
