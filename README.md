@@ -30,7 +30,7 @@ I am an aspiring **Blue Team Cybersecurity Analyst** with hands-on experience in
 
 My passion is understanding how attackers operate and applying that knowledge to strengthen defensive security. Through practical labs and investigation-based projects, I continue building the technical skills required in modern **Security Operations Centers (SOC)**.
 
-I believe the best way to learn cybersecurity is by doing. Every repository in this portfolio reflects practical investigations, evidence analysis, and documented analyst reasoning rather than simply completing labs.
+
 
 ---
 
