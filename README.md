@@ -6,202 +6,359 @@
 
 # 👋🏽 Hi, I'm **Tam-George Belema**
 
-### Cybersecurity Analyst (Blue Team) • SOC Operations • Python Automation
+### Cybersecurity Analyst (Blue Team) • SOC Operations • Incident Response • Python Automation
 
 <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&center=true&vCenter=true&width=760&lines=Cybersecurity+Analyst+%28Blue+Team%29;SOC+Analyst;Detection+%7C+Incident+Response+%7C+SIEM;Wireshark+%7C+Splunk+%7C+Elastic+Stack;Offense-Informed+Defense" alt="Typing SVG" width="100%"/>
 
-<!-- Cybersecurity-themed animated images -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVpaWZ1YWdhM3RwbGU5YmZobWFkYXo3emRuZnJpZTFxb240aWM1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2i7jspnRBYgg6v4Oki/giphy.gif" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Animation 1"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJmMGN6bjQxdm01bzBhZHFqMzhmeWozbm0wbjZ5bGE2N2ptYWh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UK5wOtrmXzFHYJjE9A/giphy.gif" width="140" style="margin-right:10px; display:inline-block;" alt="Cybersecurity Animation 2"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ2YWZhc283amZ2d201cWo2dnp6M3BrbjhiZ3Juem1leDIzM25kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Wz430ih2mZjpYAApu/giphy.gif" width="140" style="display:inline-block;" alt="Cybersecurity Animation 3"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVpaWZ1YWdhM3RwbGU5YmZobWFkYXo3emRuZnJpZTFxb240aWM1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2i7jspnRBYgg6v4Oki/giphy.gif" width="140"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJmMGN6bjQxdm01bzBhZHFqMzhmeWozbm0wbjZ5bGE2N2ptYWh5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UK5wOtrmXzFHYJjE9A/giphy.gif" width="140"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ2YWZhc283amZ2d201cWo2dnp6M3BrbjhiZ3Juem1leDIzM25kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Wz430ih2mZjpYAApu/giphy.gif" width="140"/>
 </p>
 
 </div>
 
 ---
+# 🧭 About Me
 
-## 🧭 About Me
+I am an aspiring **Blue Team Cybersecurity Analyst** with hands-on experience investigating security events, analyzing logs, and documenting SOC-style case studies using **Splunk, Elastic Stack, Wireshark, and Python**.
 
-- 🛡️ **Cybersecurity Analyst (Blue Team)** focused on detection, monitoring, and incident response
-- 🧠 Strong foundation in **networking, security fundamentals, and SOC workflows**
-- 📊 Hands-on experience with **Splunk, Elastic Stack (ELK), and Wireshark** for log & network investigations
-- 🐍 Use **Python** for scripting, automation, and security tooling
-- 🧪 Hands-on practitioner: labs, detections, log analysis, and analyst-style investigations
-- 📂 Turning practical security labs into **recruiter-ready GitHub portfolio projects**
-- 🎯 Career goal: **Entry-level SOC / Blue Team Analyst**
+I enjoy understanding how attackers operate and applying that knowledge to improve detection, incident response, and defensive security. My focus is on building practical, recruiter-ready projects that demonstrate the skills used in real Security Operations Centers.
 
----
-
-## 🧪 SOC Portfolio — Live Investigation Repositories
-
-- 🛡️ **[Incident Response Casework](https://github.com/Tam-George10/Incident-Response)**
-- 📊 **[SIEM Threat Investigations](https://github.com/Tam-George10/Siem-investigations)**
-- 🧬 **[Malware Analysis Campaigns](https://github.com/Tam-George10/Malware-Analysis)**
-- 🎯 **[Detection Engineering Labs](https://github.com/Tam-George10/Ransomware-Detection-Engineering)**
-- 📨 **[Phishing & Social Engineering Investigations](https://github.com/Tam-George10/Phishing-Threat-Investigation)**
-- 🧠 **[Threat Intelligence & Adversary Tracking](https://github.com/Tam-George10/Threat-Intelligence-From-Phishing-To-Ransomware)**
-
-
-Each project includes:
-- Scenario overview  
-- Evidence & logs  
-- Detection logic  
-- Analyst reasoning  
-- Lessons learned  
+- 🛡️ Blue Team Cybersecurity Analyst
+- 📊 SOC monitoring, detection, and incident response
+- 🔍 Log analysis using Splunk and Elastic Stack
+- 🌐 Network traffic analysis with Wireshark
+- 🐍 Python automation and security scripting
+- 🧪 Practical SOC investigations and malware analysis
+- 📂 Building recruiter-ready cybersecurity portfolio projects
+- 🎯 Seeking an Entry-Level SOC / Blue Team Analyst role
 
 ---
 
-## 🎯 Professional Focus
 
-- Security Operations Center (SOC)
-- Incident Response & Alert Triage
-- Log Analysis & SIEM Concepts (Splunk / Elastic Stack)
-- Detection Engineering (entry-level)
-- Threat Monitoring & Investigation
-- Offense-informed defensive security
+# 🏅 Certifications
+
+## 🔐 CompTIA
+
+### ✅ CompTIA Security+ (SY0-701)
+**Issued:** July 2026
+
+Core Domains
+
+- Threat Management
+- Security Architecture
+- Security Operations
+- Incident Response
+- Risk Management
+- Identity & Access Management
+- Cryptography
+- Network Security
 
 ---
 
-## 🏅 Certifications & Training
+## 🔐 IBM SkillsBuild
 
-### 🔐 IBM SkillsBuild
-- **Cybersecurity Fundamentals**  
-  *Issued: September 14, 2025*  
-  - Threats, vulnerabilities, and risk concepts  
-  - Security controls and defensive best practices  
-  - Core cybersecurity principles for enterprise environments  
+### Cybersecurity Fundamentals
 
-- **Explore Emerging Tech**  
-  *Issued: September 14, 2025*  
-  - Cloud, AI, and emerging technologies  
-  - Security implications of modern technology stacks  
+*Issued: September 2025*
 
-### 🌐 Cisco Networking Academy
-- **Introduction to Cybersecurity**  
-  *Issued: July 12, 2025*  
-  - Cyber threats and attack methodologies  
-  - Defensive strategies and SOC fundamentals  
+### Explore Emerging Technologies
 
-- **Networking Basics**  
-  *Issued: June 12, 2025*  
-  - TCP/IP fundamentals  
-  - IP addressing, protocols, and network communication  
+*Issued: September 2025*
 
-### 🛠️ Udemy
-- **Complete Ethical Hacking Bootcamp**  
-  *Completed: September 9, 2025*  
+---
 
-  **Focus: Attacker Tradecraft for Defensive Security**
+## 🌐 Cisco Networking Academy
 
-  - Understanding common attacker **initial access techniques**
-  - **Windows exploitation concepts**, including analysis of vulnerabilities such as **EternalBlue (SMB exploitation)**
-  - Post-exploitation techniques and **artifacts left in logs, memory, and system activity**
-  - Windows privilege escalation concepts and indicators
-  - Malware behavior fundamentals and execution flow
-  - Network-based attacks and **how malicious activity appears in traffic**
-  - Password attacks and authentication weaknesses (defensive awareness)
-  - Web application attack concepts (authentication and input validation flaws)
+### Introduction to Cybersecurity
 
-  > This training strengthened my ability to **think like an attacker** in order to  
-  > improve detection logic, log analysis, and incident response effectiveness.
+*Issued: July 2025*
+
+### Networking Basics
+
+*Issued: June 2025*
+
+---
+
+## 🛠️ Udemy
+
+### Complete Ethical Hacking Bootcamp
+
+**Focus:** Understanding attacker techniques to improve defensive security.
+
+Topics included:
+
+- Initial Access
+- Windows Exploitation Concepts
+- EternalBlue
+- Privilege Escalation
+- Malware Behaviour
+- Network Attacks
+- Password Attacks
+- Web Application Security
+
+> Understanding offensive techniques helps improve defensive detection, investigation, and incident response.
+
+---
 
 ### 🔗 Certification Verification
-- 🏅 **Credly:** [View Certifications](https://www.credly.com/users/tg-beele)
-- 🧪 **Udemy Certificate:** [View Certificate](https://www.udemy.com/certificate/UC-ddcf3994-bdb9-4b4a-aa82-14e8b8045ddc/)
+
+🏅 **Credly**
+
+https://www.credly.com/users/tg-beele
+
+🧪 **Udemy Certificate**
+
+https://www.udemy.com/certificate/UC-ddcf3994-bdb9-4b4a-aa82-14e8b8045ddc/
 
 ---
 
-## 🛠️ Technical Skills
+# 🧪 SOC Investigation Portfolio
 
-### 🛡️ Blue Team & Security
-- SOC workflows & analyst triage
-- Incident response lifecycle
-- Log analysis fundamentals
-- Threat detection concepts
-- MITRE ATT&CK framework familiarity
-- Windows & Linux security fundamentals
+🛡️ **Incident Response Casework**
 
-### 📊 SIEM & Log Analysis
-- **Splunk**: search queries, investigations, alert analysis
-- **Elastic Stack (ELK)**: Kibana queries, log filtering, timeline analysis
-- Windows Event Logs & Sysmon
-- Sigma rule concepts
-
-### 🌐 Network & Threat Investigation
-- **Wireshark** packet analysis for malicious traffic identification
-- Network-based attack detection and protocol abuse analysis
-- Identification of C2 indicators and suspicious network behavior
-- Phishing email analysis and malicious payload identification
-- **Sandbox-based threat isolation** and behavioral observation
-- Malware triage and execution artifact recognition
-- Vulnerability research and exploit awareness using **Searchsploit**
-
-### 🐍 Programming & Automation
-- Python scripting & automation
-- Object-Oriented Programming (OOP)
-- Log parsing & structured data handling
-- Security-focused scripting
+https://github.com/Tam-George10/Incident-Response
 
 ---
 
-## 🧪 Hands-On Blue Team Training (TryHackMe)
+📊 **SIEM Threat Investigations**
 
-- ✅ **146 completed rooms**
-- 🛡️ Completed **Incident Response** and **Detection & Monitoring** rooms
-- 📊 Practiced real SOC analyst workflows:
-  - Alert triage
-  - Log analysis
-  - Evidence correlation
-  - Detection logic reasoning
-- 🧠 Applied **MITRE ATT&CK** concepts to simulated real-world attacks
-- 🧾 Documenting labs as **SOC-style case studies** in this portfolio
-- 🏅 Earned multiple **TryHackMe badges** demonstrating consistency and hands-on depth
-- 🔗 **Profile:** [View on TryHackMe](https://tryhackme.com/p/TamGeorge)
-
-### Focus Areas
-- Incident response lifecycle
-- Windows event analysis
-- Network activity investigation
-- Log-based threat detection
-- Attacker behavior recognition
-
-> TryHackMe is used strictly as a **hands-on training platform**,  
-> not for badge or leaderboard collection.
+https://github.com/Tam-George10/Siem-investigations
 
 ---
 
-## 📌 Current & Upcoming Goals
+🧬 **Malware Analysis**
 
-- 📖 **CompTIA Security+** (in progress)
-- 📖 **CompTIA CySA+** (planned)
-- 🛠️ Detection-focused Python tooling
-- 🧪 Sigma rule creation
-- 📊 Advanced SIEM queries (Splunk / Elastic)
+https://github.com/Tam-George10/Malware-Analysis
 
 ---
 
-## 🗺️ Roadmap
+🎯 **Detection Engineering Labs**
 
-- ✅ Foundational cybersecurity certifications (IBM, Cisco)
-- 🔄 Security+ preparation
-- 🔄 CySA+ preparation
-- ⏳ Detection engineering portfolio expansion
-- 🎯 Entry-level SOC / Blue Team role
+https://github.com/Tam-George10/Ransomware-Detection-Engineering
 
 ---
 
-## 📫 Contact
+📨 **Phishing Investigations**
 
-- 📧 **Email:** tgbeele@gmail.com
+https://github.com/Tam-George10/Phishing-Threat-Investigation
+
+---
+
+🧠 **Threat Intelligence**
+
+https://github.com/Tam-George10/Threat-Intelligence-From-Phishing-To-Ransomware
+
+---
+
+Every investigation includes
+
+- Scenario Overview
+- Evidence Collection
+- Log Analysis
+- Detection Logic
+- Analyst Reasoning
+- Lessons Learned
+
+---
+
+# 🛠️ Technical Skills
+
+## 🛡️ Security Operations
+
+- Security Operations Center (SOC)
+- Alert Triage
+- Incident Response
+- Threat Hunting Fundamentals
+- Detection Engineering (Foundational)
+- MITRE ATT&CK
+- Threat Intelligence
+- Malware Analysis
+- Phishing Investigation
+
+---
+
+## 📊 SIEM & Log Analysis
+
+- Splunk
+- Elastic Stack (ELK)
+- Kibana
+- Windows Event Logs
+- Sysmon
+- Sigma Rules
+- Timeline Analysis
+- Log Correlation
+
+---
+
+## 🌐 Networking
+
+- TCP/IP
+- DNS
+- HTTP / HTTPS
+- SMB
+- SSH
+- DHCP
+- ARP
+- ICMP
+- Network Troubleshooting
+- Protocol Analysis
+
+---
+
+## 🔍 Network Security
+
+- Wireshark
+- Packet Analysis
+- C2 Traffic Identification
+- Suspicious Network Behaviour
+- Network Attack Detection
+
+---
+
+## 💻 Operating Systems
+
+- Windows 10
+- Windows 11
+- Windows Server
+- Ubuntu Linux
+- Kali Linux
+
+---
+
+## 🔑 Identity & Access
+
+- Active Directory Fundamentals
+- Windows Authentication
+- Group Policy Concepts
+- Least Privilege
+- Access Control
+
+---
+
+## 🐍 Programming
+
+- Python
+- Object-Oriented Programming
+- Automation
+- Log Parsing
+- Security Scripting
+
+---
+
+## 🔧 Security Tools
+
+- Splunk
+- Elastic Stack
+- Wireshark
+- Sysmon
+- Searchsploit
+- Git
+- GitHub
+- Linux CLI
+
+---
+
+# 🧪 Hands-On Blue Team Training (TryHackMe)
+
+✅ **146 Completed Rooms**
+
+Hands-on experience across:
+
+- Incident Response
+- Detection & Monitoring
+- Windows Event Analysis
+- Malware Analysis
+- Network Investigations
+- Threat Detection
+- Log Analysis
+- MITRE ATT&CK Mapping
+
+SOC activities practiced
+
+- Alert Triage
+- Log Correlation
+- Evidence Collection
+- Timeline Analysis
+- Detection Logic
+- Investigation Documentation
+
+🏅 Multiple TryHackMe badges earned through practical learning.
+
+🔗 Profile
+
+https://tryhackme.com/p/TamGeorge
+
+> TryHackMe is used as a practical training platform to build real SOC investigation skills and document them as portfolio case studies.
+
+---
+
+# 🎯 Professional Focus
+
+- Security Operations Center (SOC)
+- Incident Response
+- Threat Detection
+- Log Analysis
+- SIEM Investigation
+- Network Security Monitoring
+- Blue Team Operations
+- Offense-Informed Defense
+
+---
+
+# 📌 Current Goals
+
+- 📖 Preparing for CompTIA CySA+
+- 🧪 Build advanced detection engineering projects
+- 🐍 Develop Python security automation tools
+- 📊 Master advanced Splunk and Elastic investigations
+- 🧠 Continue building SOC investigation case studies
+
+---
+
+# 🗺️ Career Roadmap
+
+✅ IBM Cybersecurity
+
+✅ Cisco Networking Academy
+
+✅ CompTIA Security+
+
+🔄 CompTIA CySA+
+
+🔄 Detection Engineering Portfolio Expansion
+
+🎯 Entry-Level SOC Analyst
+
+
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+tgbeele@gmail.com
+
+💼 **LinkedIn**
+
+www.linkedin.com/in/belema-tam-george-944bb33a5
+
+🛡️ **TryHackMe**
+
+https://tryhackme.com/p/TamGeorge
+
+💻 **GitHub**
+
+https://github.com/Tam-George10
 
 ---
 
 <div align="center">
 
-**Detect early. Respond fast. Defend smart.**
+## 🛡️ Detect Early • Respond Fast • Defend Smart
 
-<!-- Cyber lock animated effect -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29lN2R5YXJlY2ptdzZsNzlpYjN6YW02cTZ1c2ZiaW1mOTd2dWphNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HbFrM2dv8O3DO/giphy.gif" alt="Cybersecurity Lock Animation" width="15%"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29lN2R5YXJlY2ptdzZsNzlpYjN6YW02cTZ1c2ZiaW1mOTd2dWphNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HbFrM2dv8O3DO/giphy.gif" width="15%"/>
 
 </div>
